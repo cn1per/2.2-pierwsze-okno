@@ -11,6 +11,8 @@
         Height="450"
         Background="#EAF7F5">
     <Grid>
+    <TextBlock Text="Witaj w mojej aplikacji!" />
+    
 
     </Grid>
 </Window>
