@@ -15,7 +15,8 @@
      FontSize="30"
      FontWeight="Bold"
      Foreground="DarkSlateGray"
-     HorizontalAlignment="Center"/>
+     HorizontalAlignment="Center"
+     VerticalAlignment="Center"/>
 
 
     </Grid>
