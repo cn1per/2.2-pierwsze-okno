@@ -12,7 +12,8 @@
         Background="#EAF7F5">
     <Grid>
     <TextBlock Text="Witaj w mojej aplikacji!"
-     FontSize="30"/>
+     FontSize="30"
+     FontWeight="Bold"/>
 
 
     </Grid>
