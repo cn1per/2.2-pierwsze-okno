@@ -14,7 +14,8 @@
     <TextBlock Text="Witaj w mojej aplikacji!"
      FontSize="30"
      FontWeight="Bold"
-     Foreground="DarkSlateGray"/>
+     Foreground="DarkSlateGray"
+     HorizontalAlignment="Center"/>
 
 
     </Grid>
