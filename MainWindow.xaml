@@ -17,7 +17,8 @@
      Foreground="DarkSlateGray"
      HorizontalAlignment="Center"
      VerticalAlignment="Center"
-     Margin="20"/>
+     Margin="20"
+     FontFamily="Segoe UI"/>
 
 
     </Grid>
