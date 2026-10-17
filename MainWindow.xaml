@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:pierwsze_okno"
         mc:Ignorable="d"
         Title="Moja pierwsza aplikacja"
+        Width="800">
     <Grid>
 
     </Grid>
